@@ -1,7 +1,6 @@
 ﻿//Напишите программу, которая на вход принимает два числа A и B, и возводит число А в целую степень В с помощью рекурсии.
 //А = 3; B = 5 -> 243
 //A = 2; B = 3 -> 8
-using System.Reflection.Metadata.Ecma335;
 using static System.Console;
 Clear();
 
